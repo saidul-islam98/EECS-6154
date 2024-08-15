@@ -38,4 +38,3 @@ The experimental results demonstrate that the proposed method significantly impr
 1. [Etta D Pisano et al., "Contrast limited adaptive histogram equalization image processing to improve the detection of simulated spiculations in dense mammograms," Journal of Digital imaging, 1998.](https://doi.org/10.1007/BF03168750)
 2. [Xiaojie Guo, "LIME: A method for low-light image enhancement," 2016.](https://arxiv.org/abs/1511.06079)
 
-For a detailed explanation of the methodology and experimental setup, please refer to the [full project report](path/to/report.pdf).
